@@ -1,3 +1,7 @@
+Generated more data y flipping each image horizontally
+Created 3 sets of data namely training, validation, test
+
+
 903 images belonging to 2 classes
 Training accuracy = 0.9723145365715027
 Training Loss = 0.0718647763133049
