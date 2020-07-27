@@ -1,0 +1,11 @@
+903 images belonging to 2 classes
+Training accuracy = 0.9723145365715027
+Training Loss = 0.0718647763133049
+
+198 images belonging to 2 classes
+Validation accuracy = 1.0
+Validation Loss = 0.020996004343032837
+
+147 images belonging to 2 classes
+Test Accuracy = 0.9795918464660645
+Test Loss = 0.06311477720737457
